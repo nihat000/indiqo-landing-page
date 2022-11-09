@@ -80,11 +80,12 @@ ul li a:hover{
 }
 .lastimg{
     width: 48%;
+    
+    
 
 }
 .midpage{
     padding: 130px;
-    
     border: 100px black;
 }
 .about{
@@ -98,4 +99,58 @@ ul li a:hover{
     width: 40%;
     
 }
+.aboutbut{
+    background-color:white;
+    color: white;
+    padding: 20px;
+    letter-spacing: 1px;
+    text-decoration: none;
 
+}
+.aboutbut :hover{
+    background-color: black;
+    color: white;
+}
+.servicesbut{
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+}
+.aboutbutc{
+    text-decoration: none;
+    color: white;
+}
+.aboutbutcd{
+    background-color:black;
+    color: white;
+    width:  160px;
+    padding: 20px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    border-collapse: 10px;
+}
+.aboutbutton{
+    display: inline-block;
+    color: black;
+    font: small-caption;
+    font-size: small;
+    margin: 20px;
+    letter-spacing: 1px;
+
+    
+}
+
+
+.metnpage{
+    display: flex;
+    padding-left: 550px;
+    color: gray;
+    font-family: Poppins,sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 25px;
+    letter-spacing: .05em;
+    
+    
+    
+}
